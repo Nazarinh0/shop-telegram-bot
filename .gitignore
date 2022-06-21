@@ -13,3 +13,5 @@ DOCS/overview.md
 src/modules/
 backups/
 logs/
+/venv
+/env
